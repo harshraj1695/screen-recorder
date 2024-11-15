@@ -5,7 +5,6 @@ A simple screen recording tool built with JavaScript, HTML, and CSS. This projec
 ## Live Demo
 
 [View the live project here](https://harshraj1695.github.io/screen-recorder)  
-*Replace this URL with your GitHub Pages URL once you’ve set up the live demo.*
 
 ## Features
 

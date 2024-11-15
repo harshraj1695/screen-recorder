@@ -25,4 +25,4 @@ To run this project locally:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/screen-recorder.git
+   git clone https://github.com/harshraj1695/screen-recorder.git
